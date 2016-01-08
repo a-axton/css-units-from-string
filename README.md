@@ -7,9 +7,11 @@ Just like the name, gets all occurrences of css units from a string.
 * unitless
 
 ### Installation
-```npm install css-units-from-string --save```
-### Usage
+```bash
+npm install css-units-from-string --save
 ```
+### Usage
+```javascript
 var unitsFromString = require('css-units-from-string');
 var results = unitsFromString('200px 100% 1.25 2.75em');
 // results
