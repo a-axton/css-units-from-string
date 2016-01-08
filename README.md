@@ -5,6 +5,7 @@ Just like the name, gets all occurrences of css units from a string.
 * viewport - vh, vw, vmin, vmax
 * percentage
 * unitless
+
 ### Installation
 ```npm install css-units-from-string --save```
 ### Usage
