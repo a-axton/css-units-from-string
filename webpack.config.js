@@ -12,7 +12,7 @@ module.exports = {
   entry: './src/index.js',
   output: {
     path: './dist',
-    filename: 'index.js'
+    filename: 'css-units-from-string.js'
   },
   module: {
     preLoaders: [

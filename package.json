@@ -1,15 +1,15 @@
 {
-  "name": "npm-starter",
+  "name": "css-units-from-string",
   "version": "1.0.0",
-  "description": "",
-  "main": "dist/index.js",
-  "homepage": "https://github.com/a-axton/module-starter",
+  "description": "Gets all occurrences of css units from a string. Supports px, mm, cm, in, pt, pc, mozmm, em, ex, ch, rem, vh, vw, vmin, vmax, %, and unitless.",
+  "main": "dist/css-units-from-string.js",
+  "homepage": "https://github.com/a-axton/css-units-from-string",
   "repository": {
     "type": "git",
-    "url": "https://github.com/a-axton/module-starter.git"
+    "url": "https://github.com/a-axton/css-units-from-string.git"
   },
   "bugs": {
-    "url" : "https://github.com/a-axton/module-starter/issues"
+    "url": "https://github.com/a-axton/css-units-from-string/issues"
   },
   "babel": {
     "presets": [
